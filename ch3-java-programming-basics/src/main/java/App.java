@@ -13,6 +13,6 @@ public class App {
 
         System.out.println(new App().getGreeting());
 
-        new FirstLesson().main();
+        FirstLesson.main();
     }
 }
