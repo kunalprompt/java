@@ -22,3 +22,7 @@ Documentation - https://gradle.org/docs/
 NOTE: To understand the packages, I've created a package `pkg` in `src/main/java`
 along with two subpackages and used the subpackages in App.java
 file.
+
+The following link will be useful.
+
+https://stackoverflow.com/questions/29805622/could-not-find-or-load-main-class-org-gradle-wrapper-gradlewrappermain
