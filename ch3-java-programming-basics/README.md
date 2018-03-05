@@ -4,6 +4,8 @@
 
 Demonstrating the use of variable in Java.
 
+![alt Primtive Data Types in Java](https://raw.githubusercontent.com/kunalprompt/java/master/ch3-java-programming-basics/PrimitiveDataTypes.png)
+
 
 #### MyNumericArray.java - Custom Numeric Array
 
@@ -30,4 +32,5 @@ a new instance.
 
 
 Useful Links
+
 https://www.geeksforgeeks.org/java-interview-questions-constructors/
